@@ -1,13 +1,13 @@
 {
   "name": "@zvil/first",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo version was $npm_package_version"
   },
   "dependencies": {
-    "@zvil/common": "1.0.0",
+    "@zvil/common": "^0.0.1",
     "axios": "^0.21.1",
     "vue": "3.2.1"
   },
